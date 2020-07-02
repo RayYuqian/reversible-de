@@ -13,7 +13,7 @@ The code requires:
 2. Check your settings and run.
 
 ## Citation
-New methods and changes were made based on this repository: https://github.com/jmtomczak/reversible-de and the following papaer:
+New methods and changes were made based on this repository https://github.com/jmtomczak/reversible-de and the following papaer:
 
 ```
 @article{tomczak2020differential,
