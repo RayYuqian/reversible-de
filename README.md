@@ -1,6 +1,6 @@
-# Differential Evolution with Reversible Linear Transformations
-This repository contains code required to reproduce experiments carried out in the following paper:
-* Jakub M. Tomczak, Ewelina Weglarz-Tomczak, Agoston E. Eiben, "Differential Evolution with Reversible Linear Transformations", GECCO, 2020 [arXiv preprint](https://arxiv.org/abs/2002.02869)
+# Evolution Strategies Applied to Gene Repressilator System
+This repository contains code required to reproduce experiments carried out in the following thesis:
+* Yuqian L., "Evolution Strategies Applied to Gene Repressilator System", 2020
 
 ## Requirements
 The code requires:
@@ -9,11 +9,11 @@ The code requires:
 * `scipy`
 
 ## Run the experiments
-1. Pick one of the experiments in `experiments` directory.
+1. Pick ES_repressilator.py in the `experiments` directory.
 2. Check your settings and run.
 
 ## Citation
-Please cite our paper if you use this code in your research:
+New methods and changes were made based on this repository: https://github.com/jmtomczak/reversible-de and the following papaer:
 
 ```
 @article{tomczak2020differential,
@@ -23,5 +23,3 @@ Please cite our paper if you use this code in your research:
   year={2020}
 }
 ```
-## Acknowledgments
-EW-T is financed by a grant within Mobilnosc Plus V from the Polish Ministry of Science and Higher Education (Grant No. 1639/MOB/V/2017/0).
