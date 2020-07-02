@@ -1,5 +1,5 @@
 # Evolution Strategies Applied to Gene Repressilator System
-This repository contains code required to reproduce experiments carried out in the following thesis:
+This repository contains code required to reproduce the experiment carried out in the following thesis:
 * Yuqian L., "Evolution Strategies Applied to Gene Repressilator System", 2020
 
 ## Requirements
